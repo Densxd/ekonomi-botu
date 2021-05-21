@@ -6,7 +6,7 @@ Botu çalıştırmak kolaydır sadece
 ```bash
 npm install
 ```
-Sornrada ise Bu aşşağıdaki boşlukları doldurmak
+Sornrada ise Bu aşşağıdaki boşlukları doldurmak. Sorun vs olursa Dens#0709'a ulaşabilirsiniz.
 ```json
 {
   "prefix": ".",
@@ -37,7 +37,6 @@ Sornrada ise Bu aşşağıdaki boşlukları doldurmak
   }
 }
 ```
-daki boşlukları doldurmak. Sorun vs olursa Dens#0709'a ulaşabilirsiniz.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
