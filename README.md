@@ -1,3 +1,6 @@
+# Benim için önemli bir botdur ilk kodumu ve ilk github paylaşımımdır.
+Kodun yazılımı kötü olabilir. İnsanlar bi yerden başlar zamanla kendini geliştirirler.
+
 # ekonomi-botu
 Basit bir ekonomi botudur. Eğlenmek amaçlı yapılmıştır çalınıp satmak/sunmak yasaktır!
 Aksi taktirde ceza-i işlem yaptırılıcaktır!
